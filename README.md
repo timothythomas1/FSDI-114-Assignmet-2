@@ -1,4 +1,4 @@
-# FSDI-114-Assignment-1-Algo-Anagram
+# FSDI-114-Assignment-2-Algo-Stacks and Queues
 # Anagrams
 
 ## Create a function that checks whether two words are anagrams of each other.
